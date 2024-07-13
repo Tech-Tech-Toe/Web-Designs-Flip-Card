@@ -6,7 +6,8 @@ This project demonstrates how to create an interactive flip card design using HT
 
 ## Demo
 
-![Flip Card Demo](assets/demo.gif)
+[![Flip Card Demo]]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID])
+
 
 ## Features
 
