@@ -1,6 +1,6 @@
 ---
 
-# Flip Card Design with HTML and CSS
+# Flip Card Design with HTML , CSS and JS
 
 This project demonstrates how to create an interactive flip card design using HTML and CSS. The flip card effect provides an engaging way to display content on the front and back of a card, perfect for user profiles, product cards, or any other interactive elements on a webpage.
 
