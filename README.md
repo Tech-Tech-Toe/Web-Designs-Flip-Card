@@ -1,5 +1,3 @@
-Sure! Here's a README file for your GitHub repository showcasing the flip card design using HTML and CSS:
-
 ---
 
 # Flip Card Design with HTML and CSS
@@ -101,5 +99,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the open-source community for providing valuable resources and inspiration.
 
 ---
-
-Feel free to customize the README file according to your needs and repository details.
