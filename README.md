@@ -90,12 +90,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
     ```
 5. **Create a new Pull Request**
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the open-source community for providing valuable resources and inspiration.
-
----
