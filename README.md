@@ -70,23 +70,3 @@ You can easily customize the flip card by modifying the CSS variables defined in
   --secondary: #FC5C7D; /* Lavender */
 }
 ```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-1. **Fork the repository**
-2. **Create your feature branch:**
-    ```sh
-    git checkout -b feature/YourFeature
-    ```
-3. **Commit your changes:**
-    ```sh
-    git commit -m 'Add some feature'
-    ```
-4. **Push to the branch:**
-    ```sh
-    git push origin feature/YourFeature
-    ```
-5. **Create a new Pull Request**
-
